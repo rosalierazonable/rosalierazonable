@@ -1,10 +1,11 @@
-<h2> Hey there! I'm Rosalie.</h2>
+<h2> Hey there! I'm Rusal. </h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Learning while exploring new software technologies in hopes to develop software solutions for the society.
 - 🎓 &nbsp; BS Computer Science 3rd year student at University of Philippines Cebu.
-- 💼 &nbsp; Student Intern at MYT Software Solutions Dev Corp.
+- 💼 &nbsp; Student Intern at MYT Software Solutions Dev Corp and Former Associate Software Engineer at Systems and Experts.
+- 💼 &nbsp; Former Associate Software Engineer at Systems and Experts.
 - 🌱 &nbsp; Learning more about Artificial Intelligence.
 - ✍️ &nbsp; Pursuing Data Science with SPARTA Scholarship.
 
@@ -28,7 +29,7 @@
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![Eclipse](https://img.shields.io/badge/-IntelliJ-333333?style=flat&logo=intellij-ide&logoColor=2C2255)
+  ![IntelliJ](https://img.shields.io/badge/-IntelliJ-333333?style=flat&logo=intellij-ide&logoColor=2C2255)
 
 <br/>
 
