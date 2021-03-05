@@ -4,7 +4,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Learning while exploring new software technologies in hopes to develop software solutions for the society.
-- 🎓 &nbsp; BS Computer Science 3rd year student at University of Philippines Cebu.
+- 🎓 &nbsp; BS Computer Science 3rd year student at University of the Philippines - Cebu.
 - 💼 &nbsp; Student Intern at MYT Software Solutions Dev Corp.
 - 💼 &nbsp; Former Associate Software Engineer at Systems and Experts.
 - 🌱 &nbsp; Learning more about Artificial Intelligence.
