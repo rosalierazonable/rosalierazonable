@@ -35,8 +35,8 @@
 <br/>
 
 <a href="https://github.com/rosalierazonable">
-  <img height="180em" src="https://github-readme-stats.rosalierazonable.vercel.app/api?username=rosalierazonable&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.rosalierazonable.vercel.app/api/top-langs/?username=rosalierazonable&theme=buefy&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rosalierazonable&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rosalierazonable&theme=buefy&layout=compact" />
 </a>
 
 <br/>
