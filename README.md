@@ -33,14 +33,6 @@
   ![IntelliJ](https://img.shields.io/badge/-IntelliJ-333333?style=flat&logo=intellij-ide&logoColor=2C2255)
 
 <br/>
-<>
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="Rosalie's GitHub Stats" src="https://github-readme-stats.rosalierazonable.vercel.app/api?username=rosalierazonable&show_icons=true&hide_border=true" />
-
-</details>
-
 <br/>
 <br/>
 
