@@ -8,8 +8,8 @@
 - 💼 &nbsp; Student Intern at Alliance Software Inc.
 - 💼 &nbsp; Former Student Intern at MYT Software Solutions Dev Corp.
 - 💼 &nbsp; Former Associate Software Engineer at Systems and Experts.
-- 🌱 &nbsp; Learning more about Artificial Intelligence.
-- ✍️ &nbsp; Pursuing Data Science with SPARTA Scholarship.
+- 🌱 &nbsp; Eager to learn about Artificial Intelligence.
+- ✍️ &nbsp; Aspiring Data Scientist.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
