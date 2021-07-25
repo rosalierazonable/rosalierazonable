@@ -44,6 +44,5 @@
 </p>
 
 <br/>
-<br/>
 
 ⭐️ From (https://github.com/AVS1508)
