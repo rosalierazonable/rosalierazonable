@@ -5,7 +5,8 @@
 
 - 🤔 &nbsp; Learning while exploring new software technologies in hopes that I can develop software solutions for the society.
 - 🎓 &nbsp; BS Computer Science 4th-year student at University of the Philippines - Cebu.
-- 💼 &nbsp; Former Software Engineer Intern at Alliance Software Inc.
+- 💼 &nbsp; Project Data Analyst at PJLhuillier Group of Companies (Cebuana).
+- 💼 &nbsp; Former Software Engineer Intern at Alliance Software Incorporated.
 - 💼 &nbsp; Former Student Developer Intern at MYT Software Solutions Dev Corp.
 - 💼 &nbsp; Former Associate Software Engineer at Systems and Experts.
 - 🌱 &nbsp; Eager to learn about Artificial Intelligence.
