@@ -9,7 +9,7 @@
 - 💼 &nbsp; Former Software Engineer Intern at Alliance Software Incorporated.
 - 💼 &nbsp; Former Student Developer Intern at MYT Software Solutions Dev Corp.
 - 💼 &nbsp; Former Associate Software Engineer at Systems and Experts.
-- 🌱 &nbsp; Eager to learn about Artificial Intelligence.
+- 🌱 &nbsp; Eager to learn about Artificial Intelligence, Deep Learning, Spatial Data Science.
 - ✍️ &nbsp; Aspiring Data Scientist.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
