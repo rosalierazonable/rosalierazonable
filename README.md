@@ -5,6 +5,7 @@
 
 - 🤔 &nbsp; Learning while exploring new software technologies in hopes that I can develop software solutions for the society.
 - 🎓 &nbsp; BS Computer Science 4th-year student at University of the Philippines - Cebu.
+- 💼 &nbsp; Data Scientist at N-PAX Philippines Inc.
 - 💼 &nbsp; Project Data Analyst at PJLhuillier Group of Companies (Cebuana).
 - 💼 &nbsp; Former Software Engineer Intern at Alliance Software Incorporated.
 - 💼 &nbsp; Former Student Developer Intern at MYT Software Solutions Dev Corp.
