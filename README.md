@@ -5,8 +5,9 @@
 
 - 🤔 &nbsp; Learning while exploring new software technologies in hopes that I can develop software solutions for the society.
 - 🎓 &nbsp; Graduated with BS in Computer Science at the University of the Philippines - Cebu.
+- 💼 &nbsp; Data Engineer at Landchecker.
 - 💼 &nbsp; Data Scientist at N-PAX Philippines Inc.
-- 💼 &nbsp; Project Data Analyst at PJLhuillier Group of Companies (Cebuana).
+- 💼 &nbsp; Former Project Data Analyst at PJLhuillier Group of Companies (Cebuana).
 - 💼 &nbsp; Former Software Engineer Intern at Alliance Software Incorporated.
 - 💼 &nbsp; Former Student Developer Intern at MYT Software Solutions Dev Corp.
 - 💼 &nbsp; Former Associate Software Engineer at Systems and Experts.
