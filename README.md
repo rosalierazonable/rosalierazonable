@@ -4,7 +4,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Turning coffee into insights
-- 🎓 &nbsp; Graduated with BS in Computer Science at the University of the Philippines - Cebu.
+- 🎓 &nbsp; BS in Computer Science at the University of the Philippines - Cebu.
 - 💼 &nbsp; Data QA Engineer - Mid at Arch Global Services Inc. Philippines
 - 💼 &nbsp; Former Data Engineer at Landchecker.
 - 💼 &nbsp; Former Data Scientist at N-PAX Philippines Inc.
