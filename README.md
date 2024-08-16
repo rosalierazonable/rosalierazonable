@@ -8,14 +8,14 @@
 - 🎓 &nbsp; BS in Computer Science Graduate from University of the Philippines - Cebu.
 - 🌱 &nbsp; Eager to learn about Artificial Intelligence, Deep Learning, Spatial Data Science.
 
-<h3> 👨 &nbsp;Data Experience </h3>
+<h3> 👨 &nbsp;Data Analytics and Engineering </h3>
 
 - 💼 &nbsp; Data QA Engineer - Mid at Arch Global Services Inc. Philippines
 - 💼 &nbsp; Former Data Engineer at Landchecker.
 - 💼 &nbsp; Former Data Scientist at N-PAX Philippines Inc.
 - 💼 &nbsp; Former Project Data Analyst at PJLhuillier Group of Companies (Cebuana).
 
-<h3> 💻 &nbsp;Software Engineering Experience </h3>
+<h3> 💻 &nbsp;Software Engineering </h3>
 
 - 💼 &nbsp; Former Software Engineer Intern at Alliance Software Incorporated.
 - 💼 &nbsp; Former Student Developer Intern at MYT Software Solutions Dev Corp.
