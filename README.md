@@ -47,7 +47,7 @@
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
   ![Pycharm](https://img.shields.io/badge/-Pycharm-333333?style=flat&logo=pycharm&logoColor=03EF62)
   ![Datagrip](https://img.shields.io/badge/-Datagrip-333333?style=flat&logo=datagrip&logoColor=03EF62)
-
+  ![QGIS](https://img.shields.io/badge/-QGIS-05122A?style=flat&logo=qgis&logoColor=#589632)
   
 ### ⚙️ &nbsp;GitHub Analytics
 
