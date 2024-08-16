@@ -4,22 +4,22 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Turning coffee into insights
-- ✍️ &nbsp; Aspiring Data Scientist.
-- 🎓 &nbsp; BS in Computer Science Graduate from University of the Philippines - Cebu.
-- 🌱 &nbsp; Eager to learn about Artificial Intelligence, Deep Learning, Spatial Data Science.
+- ✍️ &nbsp; Aspiring Data Scientist
+- 🎓 &nbsp; BS in Computer Science Graduate from University of the Philippines - Cebu
+- 🌱 &nbsp; Eager to learn about Artificial Intelligence, Deep Learning, Spatial Data Science
 
 <h3> 👨 &nbsp;Data Analytics and Engineering </h3>
 
 - 💼 &nbsp; Data QA Engineer - Mid at Arch Global Services Inc. Philippines
-- 💼 &nbsp; Former Data Engineer at Landchecker.
-- 💼 &nbsp; Former Data Scientist at N-PAX Philippines Inc.
-- 💼 &nbsp; Former Project Data Analyst at PJLhuillier Group of Companies (Cebuana).
+- 💼 &nbsp; Former Data Engineer at Landchecker Pty Ltd / Apteum Corp.
+- 💼 &nbsp; Former Data Scientist at N-PAX Philippines Inc/
+- 💼 &nbsp; Former Project Data Analyst at PJLhuillier Group of Companies (Cebuana)
 
 <h3> 💻 &nbsp;Software Engineering </h3>
 
-- 💼 &nbsp; Former Software Engineer Intern at Alliance Software Incorporated.
-- 💼 &nbsp; Former Student Developer Intern at MYT Software Solutions Dev Corp.
-- 💼 &nbsp; Former Associate Software Engineer at Systems and Experts.
+- 💼 &nbsp; Former Software Engineer Intern at Alliance Software Incorporated
+- 💼 &nbsp; Former Student Developer Intern at MYT Software Solutions Dev Corp
+- 💼 &nbsp; Former Associate Software Engineer at Systems and Experts
 
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
