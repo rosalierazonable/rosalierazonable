@@ -9,8 +9,9 @@
 - 🌱 &nbsp; Eager to learn about Artificial Intelligence, Deep Learning, Spatial Data Science.
 
 <h4> 👨🏻‍💻 &nbsp;Data Experience </h4>
-- 
 - 💼 &nbsp; Data QA Engineer - Mid at Arch Global Services Inc. Philippines
+- 
+- 
 - 💼 &nbsp; Former Data Engineer at Landchecker.
 - 💼 &nbsp; Former Data Scientist at N-PAX Philippines Inc.
 - 💼 &nbsp; Former Project Data Analyst at PJLhuillier Group of Companies (Cebuana).
