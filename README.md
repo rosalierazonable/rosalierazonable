@@ -17,9 +17,10 @@
 
 <h3> 💻 &nbsp;Software Engineering </h3>
 
+- 💼 &nbsp; Former Associate Software Engineer at Systems and Experts
 - 💼 &nbsp; Former Software Engineer Intern at Alliance Software Incorporated
 - 💼 &nbsp; Former Student Developer Intern at MYT Software Solutions Dev Corporation
-- 💼 &nbsp; Former Associate Software Engineer at Systems and Experts
+
 
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
