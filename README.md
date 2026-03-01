@@ -6,11 +6,11 @@
 - 🤔 &nbsp; Turning coffee into insights
 - ✍️ &nbsp; Aspiring Data Scientist
 - 🎓 &nbsp; BS in Computer Science Graduate from University of the Philippines - Cebu
-- 🌱 &nbsp; Eager to learn about Artificial Intelligence, Deep Learning, Spatial Data Science
+- 🌱 &nbsp; PhD in Data Science Student @ University of the Philippines Diliman 
 
 <h3> 👨 &nbsp;Data Analytics and Engineering </h3>
 
-- 💼 &nbsp; Data QA Engineer - Mid at Arch Global Services Inc. Philippines
+- 💼 &nbsp; Senior Data Quality Engineer - Team Lead at Arch Global Services Inc., Philippines
 - 💼 &nbsp; Former Data Engineer at Landchecker Pty Ltd / Apteum Corporation
 - 💼 &nbsp; Former Data Scientist at N-PAX Philippines Incorporated
 - 💼 &nbsp; Former Project Data Analyst at PJLhuillier Group of Companies (Cebuana)
