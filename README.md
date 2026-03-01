@@ -1,20 +1,20 @@
 <h2> Hey there! I'm Rosalie. </h2>
 <img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
 
-<h3> 👨🏻‍💻 &nbsp;About Me </h3>
+<h3> 🙋‍♀️ &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Turning coffee into insights
 - 🎓 &nbsp; BS in Computer Science Graduate from University of the Philippines - Cebu
-- 🌱 &nbsp; PhD in Data Science Student @ University of the Philippines Diliman 
+- 👩‍🎓 &nbsp; PhD in Data Science Student @ University of the Philippines Diliman 
 
-<h3> ✍️📈 &nbsp;Data Analytics and Engineering </h3>
+<h3> 📈 &nbsp;Data Analytics and Engineering </h3>
 
 - 💼 &nbsp; Senior Data Quality Engineer - Team Lead at Arch Global Services Inc., Philippines
 - 💼 &nbsp; Former Data Engineer at Landchecker Pty Ltd / Apteum Corporation
 - 💼 &nbsp; Former Data Scientist at N-PAX Philippines Incorporated
 - 💼 &nbsp; Former Project Data Analyst at PJLhuillier Group of Companies (Cebuana)
 
-<h3> 💻 &nbsp;Software Engineering </h3>
+<h3> 👩‍💻 &nbsp;Software Engineering </h3>
 
 - 💼 &nbsp; Former Associate Software Engineer at Systems and Experts
 - 💼 &nbsp; Former Software Engineer Intern at Alliance Software Incorporated
